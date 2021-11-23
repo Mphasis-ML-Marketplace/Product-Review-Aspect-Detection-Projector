@@ -1,0 +1,1 @@
+{"review":"However, if the wall screws are too loose or too tight you may have to take the screen back down and adjust - so be prepared to take a few minutes for this step.","topics":[{"aspect":{"Installation":0.6545043708548899},"sentence":"wall screw loose tight screen adjust prepare minute step"}]}
